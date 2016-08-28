@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="contentDescription">screen image</string>
+    <string name="btn_StartQuiz">Start Quiz</string>
+    <string name="tV_howGeeky">How Geeky Are You?</string>
+    <string name="btn_ExitQuiz">Exit</string>
+    <string name="btn_Quit">Quit</string>
+    <string name="btn_Next">Next</string>
+    <string name="Image_Description">Question Image</string>
+    <string name="tv_QuizResult">Quiz Result: </string>
+    <string name="btn_TryAgain">Try Again</string>
+    <string name="semi_geek">Semi-Geek</string>
+    <string name="non_geek">Non-Geek</string>
+    <string name="uber_geek">Uber-Geek</string>
+    </resources>
